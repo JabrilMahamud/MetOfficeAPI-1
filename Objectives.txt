@@ -1,0 +1,11 @@
+Objectives:
+
+our program should display a list of valid location names
+ask the user to input one of them
+print a list of the weather forecast information for that location
+
+Steps:
+1) translate the raw JSON data into plain English or code
+2)put all the comming data through a class so we can organise it
+3) readline to get the location the user wants
+4) print the forecast for that region for the next 12 hours.
