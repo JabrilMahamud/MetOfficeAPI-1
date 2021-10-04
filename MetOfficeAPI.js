@@ -7,7 +7,6 @@ async function index(){
     .json()
     .then(function(body){
     console.log(body.Locations.Location[0])
-        return 4
     })
 }
 
